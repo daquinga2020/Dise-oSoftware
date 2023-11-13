@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633522823 source:/home/alumnos/kinga/Escritorio/Dis_Soft/ej_arrays/main.cpp
+	<iostream>
+	"primes.h"
+
+1633522213 /home/alumnos/kinga/Escritorio/Dis_Soft/ej_arrays/primes.h
+
+1633524781 source:/home/alumnos/kinga/Escritorio/Dis_Soft/ej_arrays/primes.cpp
+	"primes.h"
+	<math.h>
+
+1633525264 source:/home/alumnos/kinga/Escritorio/Dis_Soft/ej_arrays/searches.cpp
+

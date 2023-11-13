@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1641735820 source:/home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/main.cpp
+	<iostream>
+	"Edificio.h"
+	"Conserje.h"
+	"Habitante.h"
+	"VecinoTranquilo.h"
+
+1641735600 source:/home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Edificio.cpp
+	"Edificio.h"
+	<iostream>
+
+1639400059 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Edificio.h
+	"Habitante.h"
+
+1641734890 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Habitante.h
+	"EnteAbstracto.h"
+
+1641738716 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/EnteAbstracto.h
+	<iostream>
+	<string.h>
+
+1639399739 source:/home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Conserje.cpp
+	"Conserje.h"
+
+1641738635 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Conserje.h
+	"Habitante.h"
+
+1641735266 source:/home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Vecino.cpp
+	"Vecino.h"
+
+1641738635 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/Vecino.h
+	"Habitante.h"
+
+1641738635 source:/home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/VecinoTranquilo.cpp
+	"VecinoTranquilo.h"
+
+1641735649 /home/alumnos/kinga/Escritorio/Dis_Soft/Ente_ABSTRACTO/VecinoTranquilo.h
+	"Vecino.h"
+

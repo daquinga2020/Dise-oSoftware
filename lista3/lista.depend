@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1635165478 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/main.cpp
+	<iostream>
+	"lista1_test.h"
+
+1635334027 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/listas1func.cpp
+	"lista1.h"
+	<iostream>
+
+1635163849 /home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1.h
+
+1635166227 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1_test.cpp
+	"lista1.h"
+	<iostream>
+
+1635165448 /home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1_test.h
+
+1635334746 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista2/lista2_test.cpp
+	"lista2.h"
+	<iostream>
+
+1635163854 /home/alumnos/kinga/Escritorio/Dis_Soft/lista2/lista2.h
+
+1635335175 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista2/main.cpp
+	<iostream>
+	"lista2_test.h"
+
+1635334746 /home/alumnos/kinga/Escritorio/Dis_Soft/lista2/lista2_test.h
+
+1635335066 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista2/listas2func.cpp
+	"lista2.h"
+	<iostream>
+
+1635335779 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista3/main.cpp
+	<iostream>
+	"lista3_test.h"
+
+1635335779 /home/alumnos/kinga/Escritorio/Dis_Soft/lista3/lista3_test.h
+
+1641734309 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista3/lista3_test.cpp
+	"lista3.h"
+	"lista3_test.h"
+	<iostream>
+
+1635163858 /home/alumnos/kinga/Escritorio/Dis_Soft/lista3/lista3.h
+
+1641733951 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista3/listas3.cpp
+	"lista3.h"
+	<iostream>
+

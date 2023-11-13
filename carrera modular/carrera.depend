@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1632747019 source:/home/daniel/Escritorio/DS/carrera/main.cpp
+	<iostream>
+	<math.h>
+
+1632918454 source:/home/daniel/Escritorio/DS/carrera modular/main.cpp
+	"race.h"
+
+1632918437 /home/daniel/Escritorio/DS/carrera modular/race.h
+	<iostream>
+	<math.h>
+
+1632918454 source:/home/daniel/Escritorio/DS/carrera modular/race.cpp
+	"race.h"
+

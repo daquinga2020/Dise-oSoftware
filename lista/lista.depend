@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1635165478 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/main.cpp
+	<iostream>
+	"lista1_test.h"
+
+1635334027 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/listas1func.cpp
+	"lista1.h"
+	<iostream>
+
+1635163849 /home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1.h
+
+1635334228 source:/home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1_test.cpp
+	"lista1.h"
+	<iostream>
+
+1635165448 /home/alumnos/kinga/Escritorio/Dis_Soft/lista/lista1_test.h
+
