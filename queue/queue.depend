@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637152974 source:/home/alumnos/kinga/Escritorio/Dis_Soft/queue/main.cpp
+	<iostream>
+	"msgqueue.h"
+
+1637155171 source:/home/alumnos/kinga/Escritorio/Dis_Soft/queue/msgqueue.cpp
+	"msgqueue.h"
+
+1636980166 /home/alumnos/kinga/Escritorio/Dis_Soft/queue/msgqueue.h
+
